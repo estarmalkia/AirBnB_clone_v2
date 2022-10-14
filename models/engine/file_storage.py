@@ -1,3 +1,4 @@
+
 #!/usr/bin/python3
 """This is the file storage class for AirBnB"""
 import json
@@ -128,4 +129,4 @@ class FileStorage:
                          "user_id": str,
                          "text": str}
         }
-        return attributes
+        return 

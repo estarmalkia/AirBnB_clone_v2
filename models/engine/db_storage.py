@@ -140,4 +140,4 @@ class DBStorage():
                          "user_id": str,
                          "text": str}
         }
-        return attributes
+        return 
